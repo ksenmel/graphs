@@ -1,0 +1,3 @@
+[submodule "src/spla"]
+	path = src/spla
+	url = https://github.com/SparseLinearAlgebra/spla.git
